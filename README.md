@@ -1,6 +1,6 @@
 # SL-Android-Bot
-# SL-Android-Games
-### Simple Tool For playing Games On termux 
+
+
 
 
 ## Owner - Razor Kenway | SL Android | Sri Lanka 🇱🇰 
