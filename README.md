@@ -18,6 +18,8 @@
 
 >cd SL-Android-Bot
 
+>python requirements.py
+
 >python bot.py
 
 >npm install
