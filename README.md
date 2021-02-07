@@ -14,6 +14,9 @@
 
 >pkg install git
 
+>pkg install nano
+
+>pkg install php
 >git clone https://github.com/RazorKenway/SL-Android-Bot.git
 
 >cd SL-Android-Bot
